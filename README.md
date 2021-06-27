@@ -6,7 +6,7 @@
  - [**Paper**](https://ieeexplore.ieee.org/document/9392694)
 
 ## Proposed methodologies
-<img  src="https://github.com/AmitHasanShuvo/Prediction-of-Clinical-Risk-Factors-of-Diabetes-Using-ML-Resolving-Class-Imbalance/blob/main/graphical%20representation%20of%20proposed%20methodologies.png"  width="550px"  height="350px"/>
+<img  src="https://github.com/AmitHasanShuvo/Prediction-of-Clinical-Risk-Factors-of-Diabetes-Using-ML-Resolving-Class-Imbalance/blob/main/graphical%20representation%20of%20proposed%20methodologies.png"  width="550px"  height="550px"/>
 
 
 ## How to cite:
